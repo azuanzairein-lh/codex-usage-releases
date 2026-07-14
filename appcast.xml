@@ -6,20 +6,19 @@
     <description>Codex Usage release updates</description>
     <language>en</language>
     <item>
-      <title>Codex Usage 0.1.4</title>
-      <pubDate>Tue, 14 Jul 2026 13:58:45 +0100</pubDate>
-      <sparkle:version>25</sparkle:version>
-      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <title>Codex Usage 0.1.5</title>
+      <pubDate>Tue, 14 Jul 2026 15:26:44 +0100</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-- Improve BigQuery fallback menu
-- Mirror releases in source repository
-- Write portable release checksums
+- Reduce BigQuery refresh frequency
+- Attach downloads to source releases
       ]]></description>
       <enclosure
-        url="https://github.com/azuanzairein-lh/codex-usage-releases/releases/download/v0.1.4/Codex-Usage.zip"
-        sparkle:edSignature="kSQHqHV1UsGzVUp6D8gwVro/pmii/qzMAF4x9aCDOIYNCuhYMi4rHkHZG89uVjcB/PRfjsd/ca3cd5BMO1vzAA=="
-        length="1541702"
+        url="https://github.com/azuanzairein-lh/codex-usage-releases/releases/download/v0.1.5/Codex-Usage.zip"
+        sparkle:edSignature="qqGVolH125yHReOHc6+FmDn4hS5uYdwxVcSkd0JJuQTe67APvuW7Nk1bZiqAQ5vzc/jEBuKCXvMlsZDnkp18Bg=="
+        length="1541767"
         type="application/octet-stream" />
     </item>
   </channel>
