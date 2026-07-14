@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Codex Usage Updates</title>
-    <link>https://raw.githubusercontent.com/azuanzairein-lh/codex-usage-releases/main/appcast.xml</link>
+    <link>https://raw.githubusercontent.com/azuanzairein-lh/codex-usage-releases/refs/heads/main/appcast.xml</link>
     <description>Codex Usage release updates</description>
     <language>en</language>
   </channel>
