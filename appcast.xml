@@ -5,5 +5,24 @@
     <link>https://raw.githubusercontent.com/azuanzairein-lh/codex-usage-releases/refs/heads/main/appcast.xml</link>
     <description>Codex Usage release updates</description>
     <language>en</language>
+    <item>
+      <title>Codex Usage 0.1.3</title>
+      <pubDate>Tue, 14 Jul 2026 12:30:59 +0100</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+- Support non-interactive releases
+- Automate signed Sparkle releases
+- Add resilient BigQuery usage graph
+- Merge pull request #3 from loveholidays/feat/update-zip-path
+- Update zip path
+      ]]></description>
+      <enclosure
+        url="https://github.com/azuanzairein-lh/codex-usage-releases/releases/download/v0.1.3/Codex-Usage.zip"
+        sparkle:edSignature="RtOL5p0aBzWIn6yebdOP9wXYltuU+rAPOZsZLL4lFXMkV9Tq6YQYBLckAx3MROlJaOrHyvH/JVJU5k/6eBRADg=="
+        length="1535246"
+        type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
