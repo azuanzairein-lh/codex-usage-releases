@@ -6,18 +6,18 @@
     <description>Codex Usage release updates</description>
     <language>en</language>
     <item>
-      <title>Codex Usage 0.1.6</title>
-      <pubDate>Tue, 14 Jul 2026 15:56:32 +0100</pubDate>
-      <sparkle:version>28</sparkle:version>
-      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <title>Codex Usage 0.1.7</title>
+      <pubDate>Tue, 14 Jul 2026 16:11:15 +0100</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-- Log BigQuery refresh diagnostics
+- Expand Google Cloud CLI discovery
       ]]></description>
       <enclosure
-        url="https://github.com/azuanzairein-lh/codex-usage-releases/releases/download/v0.1.6/Codex-Usage.zip"
-        sparkle:edSignature="B5zssZ2jQwVgzfpQSkWUmey5KiUjviA3OdJiMIKwpEGXR6Nsh5SJF3iPgGJD5tZGCWMI6rOtDOW4oxZtBUo4Dw=="
-        length="1559617"
+        url="https://github.com/azuanzairein-lh/codex-usage-releases/releases/download/v0.1.7/Codex-Usage.zip"
+        sparkle:edSignature="wNu57Q8yhgC5ZqBXpApUGIjDV6dtGaMZoE8rBQGxdgVMCXl9ryBsrieuFlWM3SG6lMoMrkR0UEax0OKrTfxjAg=="
+        length="1566266"
         type="application/octet-stream" />
     </item>
   </channel>
