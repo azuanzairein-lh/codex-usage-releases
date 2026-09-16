@@ -6,18 +6,19 @@
     <description>Codex Usage release updates</description>
     <language>en</language>
     <item>
-      <title>Codex Usage 0.1.11</title>
-      <pubDate>Mon, 03 Aug 2026 11:42:16 +0100</pubDate>
-      <sparkle:version>33</sparkle:version>
-      <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+      <title>Codex Usage 0.1.12</title>
+      <pubDate>Wed, 16 Sep 2026 12:05:32 +0100</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-- Fix usage API Cloudflare requests
+- Add Codex and Work usage breakdown
+- Add Codex usage dashboard
       ]]></description>
       <enclosure
-        url="https://github.com/azuanzairein-lh/codex-usage-releases/releases/download/v0.1.11/Codex-Usage.zip"
-        sparkle:edSignature="IInabI8x6FDVpj8jSY7vNdXdz7pillA/V7yGGho44tCDDGea6NA2dzCZZdvq1de3VOdNOG6zc3B18qj6oTk8CA=="
-        length="1578237"
+        url="https://github.com/azuanzairein-lh/codex-usage-releases/releases/download/v0.1.12/Codex-Usage.zip"
+        sparkle:edSignature="M8AT3XYl2ycVf506+/vaFiy+TJDHXw1Ij4LSJgYZ1LlN9IkJJlyF+E8xqQ/aYSnbgCLwRmEtEERcdMelC5XDDA=="
+        length="1578326"
         type="application/octet-stream" />
     </item>
   </channel>
