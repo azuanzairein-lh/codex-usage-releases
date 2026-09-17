@@ -6,22 +6,18 @@
     <description>Codex Usage release updates</description>
     <language>en</language>
     <item>
-      <title>Codex Usage 0.1.13</title>
-      <pubDate>Wed, 16 Sep 2026 14:17:22 +0100</pubDate>
-      <sparkle:version>36</sparkle:version>
-      <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+      <title>Codex Usage 0.1.14</title>
+      <pubDate>Thu, 17 Sep 2026 18:02:19 +0100</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-Golden Gate!
-
-- Added a transparent macOS 26+ Glass dashboard panel.
-- Background windows remain visible through the dashboard.
-- Added a solid fallback for macOS 14–25.
+- Fix release packaging output path
       ]]></description>
       <enclosure
-        url="https://github.com/azuanzairein-lh/codex-usage-releases/releases/download/v0.1.13/Codex-Usage.zip"
-        sparkle:edSignature="GRlKOOSXDVnQUtKilQUKdvcuaNPX6HB9nANIG7RHcE6guieZWI070djCH/mxFi/ImbSSdb1PCwdiSkaV2Ye4Dw=="
-        length="1578312"
+        url="https://github.com/azuanzairein-lh/codex-usage-releases/releases/download/v0.1.14/Codex-Usage.zip"
+        sparkle:edSignature="4hPqH57tf7L1J3LuemniT2V0Zk1j7vn2qcmvQyPr9tcSiwdx63sIcy5yxcD9R8bMEKQqYPd5SFuKf9GOodStAw=="
+        length="1771603"
         type="application/octet-stream" />
     </item>
   </channel>
